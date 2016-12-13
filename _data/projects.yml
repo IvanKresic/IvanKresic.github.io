@@ -1,24 +1,24 @@
 - name: 'SongBook'
-  i18n: 'saplatform'
-  url: 'github.com/IvanKresic/SongBook'
+  i18n: 'angularjs'
+  url: 'IvanKresic/SongBook'
   img: 'static/img/landing/saplatform.png'
   desc: 'SongBook is project based on ASP.NET MVC and Angular.js with SQL Server 2012 which enable adding playlists and songs in more playlists.'
 
 - name: 'FullTextSearch'
   i18n: 'jalpc'
-  url: 'github.com/IvanKresic/FullTextSearch'
+  url: 'IvanKresic/FullTextSearch'
   img: 'static/img/landing/jekyll.png'
   desc: "Desktop application (C#) for text insertion which provides various algorithms for text search with PostGreSQL database."
 
 - name: 'BikeRoutes-Mobile'
-  i18n: 'angularjs'
-  url: 'github.com/IvanKresic/BikeRoutes-Mobile'
+  i18n: 'saplatform'
+  url: 'IvanKresic/BikeRoutes-Mobile'
   img: 'static/img/landing/angularjs.png'
   desc: "BikeRoutes is mobile application that provides real-time insight in various data like air quality or bike roads popularity, on map. Also collects data from IoT sensor!"
 
 - name: 'MovieRecommander'
   i18n: 'rsser'
-  url: 'github.com/IvanKresic/MovieRecommander'
+  url: 'IvanKresic/MovieRecommander'
   img: 'static/img/landing/rsser.png'
   desc: "Movie Recommander is web application that collect data about movie types you like from your social media, and recommends movies just for you based on that data."
 
