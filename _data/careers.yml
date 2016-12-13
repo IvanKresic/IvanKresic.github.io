@@ -1,14 +1,14 @@
 - name:
-    detail: Nextcode
+    detail: Workflow EDM Gmbh
     i18n: nextcode
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    detail: Now I am in Workflow EDM Gmbh and develop highly configurable product with Java using Spring Framework.
     i18n: nextcode_des
   date:
     detail: Apr. 2016
     i18n: nextcode_date
   job:
-    detail: Python Developer
+    detail: Java developer
     i18n: nextcode_job
   icon: fa-plus-square
 
@@ -44,10 +44,10 @@
     detail: Graduation
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: At July 2014,I graduated from college and started my bachelor degree in IT.
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Jul. 2014
     i18n: college_date
   job:
     detail: Student
